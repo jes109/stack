@@ -1,0 +1,50 @@
+{
+    "albumTitle":"Eve",
+    "albumList":[
+        {
+            "title":"廻廻奇譚",
+            "artist":"Eve",
+            "albumImg":"https://i.scdn.co/image/ab67616d0000b273d35211c36ff2cc71a37ffee9",
+            "thumbnailImg":"https://i.scdn.co/image/ab6761610000517413c9c2c4a2cfd69029b94134",
+            "price":9.55,
+            "description":"It was Eve's first release after his last song 10 months earlier.\nThe singer, who had been reading the manga for some time, said he was 'impressed' that his song was chosen as the opening song, and commented as follows:There were many moments when Itadori's life and fights made me reflect.I was thinking about how I could accompany this energetic work, and so I created the music. — Eve",
+            "url":"https://open.spotify.com/track/6y4GYuZszeXNOXuBFsJlos?autoplay=true"
+        },
+        {
+            "title":"蒼のワルツ",
+            "artist":"Eve",
+            "albumImg":"https://i.scdn.co/image/ab67616d0000b273854a748d66c2d43d137c3c9f",
+            "thumbnailImg":"https://i.scdn.co/image/ab6761610000517413c9c2c4a2cfd69029b94134",
+            "price":10.33,
+            "description":"he song '蒼のワルツ (Ao No Waltz)' by Eve speaks about the nostalgia of the past, the uncertainty of the future, and the pain of regret.\nThe lyrics describe the memories of the singer and their friends, who were once young and carefree but now struggle to express themselves and share their true feelings.\nThey recall how they used to watch the sun through the clouds and speak freely, but now they feel constrained by their own emotions and the world around them.",
+            "url":"https://open.spotify.com/album/0MwXWYgKrq7UwXf1ArlqHk"
+        },
+        {
+            "title":"擬劇論",
+            "artist":"Eve",
+            "albumImg":"https://i.scdn.co/image/ab67616d0000b2739794fc0e54d795a65d732967",
+            "thumbnailImg":"https://i.scdn.co/image/ab6761610000517413c9c2c4a2cfd69029b94134",
+            "price":7.22,
+            "description":"Dramaturgy was first uploaded on Niconico with Hatsune Miku as vocalist, with Eve's self cover later uploaded on Youtube.\n'ドラマツルギー' by Eve is a song about the drama that often occurs in life. The lyrics tell a story of a group living in a small theater and performing their own play.\nThe lyrics reference the emotions of confusion, loneliness, and resignation, as well as the feeling that reality is deteriorating and that one can never be sure of the right course of action.",
+            "url":"https://open.spotify.com/track/72uSoNIf7eScfGZFQjNHrR"
+        },
+        {
+            "title":"ぼくらの",
+            "artist":"Eve",
+            "albumImg":"https://i.scdn.co/image/ab67616d0000b27379d3591f893d39bf2a40774e",
+            "thumbnailImg":"https://i.scdn.co/image/ab6761610000517413c9c2c4a2cfd69029b94134",
+            "price":7.99,
+            "description":"The song 'Bokurano' by Eve talks about a world that is devoid of black or white constructs, where hatred can be found within the depths of people's hearts.\nThe singer encourages listeners to continue moving forward towards the unknown, even though they might face obstacles and challenges along the way.\nThe lyrics describe the struggles and frustrations of an individual who is burdened with feelings of loneliness, helplessness, and anger.",
+            "url":"https://open.spotify.com/album/2anxMOkcVjThYJI6pSNbUs"
+        },
+        {
+            "title":"Last Dance",
+            "artist":"Eve",
+            "albumImg":"https://i.scdn.co/image/ab67616d0000b2736c2af0c1619740ab0cc28989",
+            "thumbnailImg":"https://i.scdn.co/image/ab6761610000517413c9c2c4a2cfd69029b94134",
+            "price":8.88,
+            "description":"'Last Dance' by Eve is a song that speaks to the pain and confusion of losing oneself in a relationship and the desire to find oneself again.\nThe song describes a toxic relationship that has caused the narrator to lose their sense of self and values.\nThe first verse talks about how the city is filled with skyscrapers that have been built by taking away the certainty of others, which alludes to the idea that the narrator's sense of self has been lost.",
+            "url":"https://open.spotify.com/track/4gM814NneKElxn37F5Ht7G"
+        }
+    ]
+}
